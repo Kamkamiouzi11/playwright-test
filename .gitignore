@@ -1,0 +1,15 @@
+# Playwright 実行時に生成される一時ファイル
+test-results/
+playwright-report/
+
+# node_modules（パッケージ本体は不要）
+node_modules/
+
+# IDEやOSの設定ファイル
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ログ・一時ファイル
+*.log
+*.zip
